@@ -1,0 +1,10 @@
+title: The Archive
+description: >-
+  A collection of my thoughts, mostly crystallized by an LLM
+baseurl: ""
+url: ""
+github_username:  thisnat
+
+theme: minima
+plugins:
+  - jekyll-feed
