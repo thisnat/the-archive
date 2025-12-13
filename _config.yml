@@ -1,10 +1,6 @@
 title: The Archive
 description: >-
   A collection of my thoughts, mostly crystallized by an LLM
-baseurl: ""
-url: ""
+baseurl: "/the-archive"
+url: "https://thisnat.github.io"
 github_username:  thisnat
-
-theme: minima
-plugins:
-  - jekyll-feed
