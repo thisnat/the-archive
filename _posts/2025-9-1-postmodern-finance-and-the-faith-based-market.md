@@ -10,7 +10,7 @@ This essay expands on a dialogue that began with a simple yet powerful observati
 #### From Fundamentals to Faith
 The Enlightenment-era model of finance assumes intrinsic value. In this model, a company’s profit, cash flow, and growth prospects determine what its stock 'should' be worth. Yet in practice, profits and fundamentals only influence prices when they inspire collective belief strong enough to trigger buying. A company can post excellent results, but if nobody buys, the stock does not rise. Conversely, assets with no profits—like meme coins—can rise dramatically because of shared narratives. Fundamentals are thus not causes of price but faith factors, symbols that gain their power from widespread recognition.
 
-############ The Postmodern Turn
+#### The Postmodern Turn
 This realization signals a shift into a postmodern era of investing. The rationalist narrative of intrinsic value is displaced by the recognition that value is subjective, constructed, and contingent on mass faith. Meme coins, GameStop rallies, and the cult of Buffett all demonstrate that markets are driven less by objective analysis than by collective belief. Ironically, even Buffett himself has become an object of faith: his presence in a stock inspires confidence, and the price rises because others trust his judgment. He embodies intrinsic value as a cultural myth rather than a measurable reality.
 
 #### Indices and Institutions as Faith Technologies
