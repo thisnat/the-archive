@@ -1,6 +1,6 @@
 title: The Archive
 description: >-
   A collection of my thoughts, mostly crystallized by an LLM
-baseurl: "/the-archive"
+baseurl: "/"
 url: "https://thisnat.github.io"
 github_username:  thisnat
