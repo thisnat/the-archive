@@ -4,3 +4,4 @@ description: >-
 baseurl: "/"
 url: "https://thisnat.github.io"
 github_username:  thisnat
+permalink: pretty
