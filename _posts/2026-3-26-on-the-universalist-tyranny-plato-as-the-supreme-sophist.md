@@ -15,13 +15,6 @@ In *The Laws*, Plato introduces the Nocturnal Council, a secret body tasked with
 
 #### The Noble Lie: The Tool of the Master Sophist
 Recognizing that humans are not purely rational agents, Plato employed the ultimate Sophist tool: the *Noble Lie*. To maintain his static social order, he argued that the state must propagate myths—such as the "Myth of the Metals"—to convince citizens of their inherent inequality.
-
-| Feature       | The Sophist’s Lie          | Plato’s Noble Lie                      |
-|---------------|----------------------------|----------------------------------------|
-| Duration      | Transient (to win a case). | Eternal (to stabilize a civilization). |
-| Scope         | Individual persuasion.     | Totalitarian world-building.           |
-| Justification | Personal gain.             | The "Good" of the State.               |
-
 Plato’s use of the Noble Lie proves that his universalism was a means to an end. He was willing to use deception to simulate the "rational" behavior he knew humans would never voluntarily adopt. He treated the population as subjects to be molded, rather than individuals to be enlightened.
 
 #### Conclusion: The Sacrifice of Life to the Static
