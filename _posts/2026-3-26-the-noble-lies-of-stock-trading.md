@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The noble lies of stock trading"
+title:  "The Noble Lies of Stock Trading"
 date:   2026-3-26
 ---
 
