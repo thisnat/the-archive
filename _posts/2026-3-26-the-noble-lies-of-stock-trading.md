@@ -4,7 +4,7 @@ title:  "The noble lies of stock trading"
 date:   2026-3-26
 ---
 
-I want to address the metaphysics and ontology of stock trading. There is an illusion—the Noble Lie—that many traders fall for. It is so simple: 'Price is subjective.' Sounds simple, right?
+I want to address the metaphysics and the ontology of stock trading. There is an illusion—the Noble Lie—that many traders fall for. The truth beneath the shadow is strikingly simple: 'Price is subjective.' Sounds simple, right?
 
 For the fundamentalists who think price is objective, who believe 'there is intrinsic value' that they claim other investors are simply too blind to see—what happens when the market moves against them? They say, 'The market is being irrational again.' How cute. If there is an intrinsic value, why can’t investors see it or calculate it? Even if it exists and people need 'reason' to see it, why is there no 'wise mind' to declare it? Intrinsic value is a lie, a dogma, and the magic that traditional investors cast (perhaps subconsciously) to make the market appear stable and rational. But the market is a supply-and-demand chaos; if no one buys the stock, the price will not move—even if the company has a massive profit!
 
