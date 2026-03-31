@@ -18,7 +18,7 @@ The gathering of butterflies, a blue sky, and the extraordinary clouds.
 
 I hold a dagger in my hand and deeply drag it across my face;
 
-a red overflows onto the flowers, turning them into red roses. 
+a river of red overflows onto the flowers, turning them into red roses.
 
 It is Valentine’s Day, and I give you tons of roses.
 
