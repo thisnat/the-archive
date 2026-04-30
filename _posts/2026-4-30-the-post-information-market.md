@@ -31,7 +31,7 @@ In this environment, the market is no longer a reflection of the economy, but a 
 *attention*. The asset that wins is not necessarily the one with the highest cash flow, but the
 one that occupies the largest share of the collective mind.
 
-#### Toward to Financial Nihilism
+#### Toward Financial Nihilism
 As the mass becomes fully informed, they eventually realize a haunting truth: if everyone
 knows everything, then no one knows anything certain about the future. This realization
 leads to "Financial Nihilism." Participants stop looking for intrinsic value—which they
