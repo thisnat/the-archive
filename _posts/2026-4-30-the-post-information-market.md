@@ -4,7 +4,7 @@ title:  "The Post-Information Market"
 date:   2026-4-30
 ---
 
-> Reflections on the End of Information Asymmetry and the Rise of Narrative Dominance
+#### Reflections on the End of Information Asymmetry and the Rise of Narrative Dominance
 
 For centuries, the financial markets functioned on the friction of distance and the scarcity
 of data. Profit, or "Alpha," was the reward for those who possessed information that the
