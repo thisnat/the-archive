@@ -24,7 +24,7 @@ The true seat of sovereignty is the Nocturnal Council, which governs through Nar
 
 * The Objective: Their goal is to ensure that the civilization remains "Beautiful" and "Vital." In this framework, Beauty is the ultimate metric of Health. If a civilization looks and feels magnificent, it is functionally stable, regardless of its material conditions.
 
-##### The Solar Shell: The Agnostic Political Interface
+#### The Solar Shell: The Agnostic Political Interface
 Beneath this "Nocturnal" layer sits the Solar Part of the state. This is the visible, administrative layer of politics—the domain of laws, elections, and bureaucracies.
 
 * The Agnostic Form: A defining feature of the 5PT is that the political form is entirely agnostic. Because the Council governs the underlying "Vibe," the exoteric state can take any shape—a Direct Democracy, a Monarchy, or a Technocracy.
