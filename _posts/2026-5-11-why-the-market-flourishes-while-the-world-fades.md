@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why the Market Flourishes While the World Fades"
+title:  "Why the Market Flourishes While the World Fades?"
 date:   2026-5-11
 ---
 
