@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In Defense of the Poet: The Myth of Erysichthon"
+title:  "In Praise of the Poet: The Myth of Erysichthon"
 date:   2026-5-11
 ---
 
