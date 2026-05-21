@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "War as Acceleration"
-date:   2026-5-11
+date:   2026-5-14
 ---
 
 For the average citizen, war is framed through the lens of national security or moral duty. For the seasoned economist, it is a desperate play to defend the hegemony of the US Dollar. However, a deeper, more radical interpretation is emerging from the fringes of political philosophy—one that suggests the United States is currently engaged in a "controlled demolition" of its own foundational structures.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sense of the Wind: How to Trade Using Hyperstition Analysis "
-date:   2026-5-11
+title:  "Sense of the Wind: How to Trade Using Hyperstition"
+date:   2026-5-21
 ---
 
 In the orthodox theater of finance, capital markets are depicted as cold, mechanical apparatuses dedicated to the discovery of objective truth. Academic literature and institutional dogmas insist that a stock ticker is an umbilical cord tying an asset price directly to the fundamental metabolism of an underlying business enterprise. Investors are encouraged to search for an elusive, almost metaphysical baseline known as "intrinsic value." They are told that while the market may fluctuate wildly in the short term, it behaves fundamentally as a weighing machine over time, eventually dropping its speculative pretenses to conform to the unyielding geometry of balance sheets, cash flows, and economic moats.
