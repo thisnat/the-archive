@@ -45,13 +45,13 @@ Caught up in the elite echo chamber, the leadership focused entirely on solving 
 
 To resist this decay of the corporate soul, a company must actively declare its Knowledge Sovereignty. This is a call for strategic isolationism when it matters most. It is a philosophy that views a company’s true value as residing in its differences, not its compliance.
 
-1. Intellectual Self-Reliance
+1. **Intellectual Self-Reliance**
 A knowledge-sovereign company does not outsource its thinking. When a paradigm-shifting technology like artificial intelligence arrives, a sovereign firm does not panic-buy off-the-shelf globalist software just because everyone else is doing it on LinkedIn. Instead, they ask a much harder, quieter question: "Does this tool respect our proprietary institutional memory, or does it mutilate our unique internal architecture?" They build, adapt, and gatekeep technology to serve their native culture, refusing to hand the keys of their intellectual framework over to Silicon Valley or external consultants.
 
-2. Cultural and Heritage Preservation
+2. **Cultural and Heritage Preservation**
 Company Nationalism treats a firm’s internal history, its specific operational craft, and the messy, accumulated wisdom of its long-term workforce as an unassailable territory. While the globalist mindset views heritage as an "inefficiency" that needs to be disrupted, the sovereign company views heritage as its primary engine of trust and long-term survival. You cannot easily replicate or compete with a company that builds upon its own distinct historical lineage.
 
-3. Sovereign Leadership
+3. **Sovereign Leadership**
 Under this new paradigm, the CEO's primary duty changes. They are no longer a vector for external trends; they are the bulwark protecting the firm's unique frame. A sovereign CEO possesses the intellectual confidence to sit in a global summit, listen to the synchronized chanting of the executive crowd, and calmly say: "That text-book playbook might work for a software startup in California, but it is toxic to who we are, what we build, and how we operate here."
 
 #### Conclusion
