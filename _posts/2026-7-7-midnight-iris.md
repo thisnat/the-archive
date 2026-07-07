@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Midnight Iris"
+title:  "Midnight Iris"
 date:   2026-7-7
 ---
 
