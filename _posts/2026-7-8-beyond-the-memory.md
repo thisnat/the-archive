@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beyond the Memory"
-date:   2026-7-7
+date:   2026-7-8
 ---
 
 For decades, the dominant cultural narrative surrounding human psychology was one of cold, mechanical determinism. Depression, joy, anxiety, and motivation were explained away through the paradigm of the "chemical imbalance"—a conceptual model that treated the human brain as a fluid-filled engine where a simple shortage of neurotransmitters like serotonin or dopamine resulted in a misfire of the soul. 

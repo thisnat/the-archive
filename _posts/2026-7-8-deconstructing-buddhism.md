@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deconstructing Buddhism"
-date:   2026-7-7
+date:   2026-7-8
 ---
 
 To the casual observer, Buddhism is often wrapped in the dense cloth of religious institutionalism—clothed in cultural rituals, moralistic taboos, and a pantheon of local folklore. However, when stripped of its historical gravity, scriptural Buddhism reveals itself not as a theology, but as a hyper-pragmatic system of psychological mechanics. It does not demand worship; it demands an engineering mindset. 
