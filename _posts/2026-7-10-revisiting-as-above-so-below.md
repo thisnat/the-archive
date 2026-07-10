@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revisiting 'As Above, So Below'"
-date:   2026-7-8
+date:   2026-7-10
 ---
 
 The ancient Hermetic axiom *"as above, so below"* historically established a mirror between the macrocosm and the microcosm—the spiritual, celestial sky dictating the architecture of the material earth. In the contemporary landscape of high-frequency trading, prediction markets, and crypto-anarchist constructs like assassination markets, this engine of manifestation has undergone a radical materialist mutation. The "above" is no longer a realm of ethereal ether or divine intervention; it has been replaced by the abstract, mathematical sky of capital and information networks. 
