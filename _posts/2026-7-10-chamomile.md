@@ -4,9 +4,9 @@ title:  "Chamomile"
 date:   2026-7-10
 ---
 
-I witness a falling doll.
+I witness a falling doll,
 
-You are sitting on the wooden chair;
+while you are sitting on the wooden chair.
 
 I jump off the cliff, take a leap,
 
