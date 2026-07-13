@@ -24,8 +24,8 @@ I wake up in the white snow, an iris in my hand.
 
 A sea salt scent, three arrows in my chest,
 
-wolf footprints, and my blood dancing across the snow.
+wolf footprints, and my blood dancing across the snow—
 
-The rose among the jasmine—
+the rose among the jasmine.
 
-you are there, smiling at me: the chamomile.
+You are there, smiling at me: the chamomile.
