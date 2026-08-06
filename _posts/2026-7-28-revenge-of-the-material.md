@@ -5,7 +5,7 @@ date:   2026-7-28
 ---
 
 > And then the subaltern picked up a sword.  
-> It started to slash everything in its path—  
+> It started to slaughter everything in its path—   
 > a river of blood and the castle ruins.  
 > The old king falls, a thirst of annihilation.  
 > It walked across the grand ancient ruins,  
