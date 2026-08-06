@@ -4,7 +4,7 @@ title:  "Revenge of the Material"
 date:   2026-7-28
 ---
 
-> Meanwhile, the subaltern picked up a sword.  
+> And then the subaltern picked up a sword.  
 > It started to slash everything in its path—  
 > a river of blood and the castle ruins.  
 > The old king falls, a thirst of annihilation.  
