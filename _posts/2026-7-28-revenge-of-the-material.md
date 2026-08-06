@@ -4,6 +4,13 @@ title:  "Revenge of the Material"
 date:   2026-7-28
 ---
 
+> Meanwhile, the subaltern picked up a sword.  
+> It started to slash everything in its path—  
+> a river of blood and the castle ruins.  
+> The old king falls, a thirst of annihilation.  
+> It walked across the grand ancient ruins,  
+> without even looking back.  
+
 The classical Hermetic axiom *"as above, so below"* rested on a comfortable cosmic hierarchy. It assumed that the realm of spirit, ideal, and intent acted as the primary architect, and that the material world was merely clay waiting to be shaped by higher consciousness. For centuries, spiritual and ideological systems operated under the assumption that if you transformed the human mind or soul, the physical world would dutifully follow.
 
 Today, that hierarchy has collapsed. We live in an era defined not by the triumphant expression of human spirit, but by the **revenge of the material**.
