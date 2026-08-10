@@ -1,10 +1,22 @@
 title: The Archive
-description: >-
-  A collection of my thoughts, mostly crystallized by an LLM
-baseurl: "/"
-url: "https://thisnat.github.io"
-github_username:  thisnat
+description: "A collection of my thoughts, mostly crystallized by an LLM."
+baseurl: ""
+url: "https://archive.pointmirai.com"
+github_username: thisnat
+
+# SEO & Social Metadata
+author:
+  name: thisnat
+  github: thisnat
+
+# Google Search Console Verification code (uncomment & set your token when available)
+# google_site_verification: "YOUR_GOOGLE_VERIFICATION_TOKEN"
+
 permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 markdown: kramdown
 kramdown:
