@@ -33,7 +33,7 @@ In orthodox finance, these functions are one-way: reality dictates price. In a r
 
 In philosophy, this process is known as *hyperstition*—an idea that makes itself real simply by being circulated and capitalized. To the dogmatic fundamentalist who views the world as a static split between an objective company and a passive stock price, this looks like black magic.
 
-### The Folksy High Priest vs. The Honest Sorcerer
+#### The Folksy High Priest vs. The Honest Sorcerer
 
 To understand the isolation of the reflexive framework, one only needs to examine why traditional finance worships Warren Buffett while largely ignoring—or villainizing—George Soros.
 
