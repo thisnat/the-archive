@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Soros is a Wizard"
-date:   2026-08-18
+date:   2026-8-18
 ---
 
 The average investor spends their life trapped in an accounting simulation. They pore over balance sheets, model 5-year capital expenditures, and obsess over quarterly margins under the naive assumption that a stock price is merely an objective mirror of corporate reality. They believe that if a company makes money, the stock must go up; if it misses, the stock must go down.
