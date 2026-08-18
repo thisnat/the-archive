@@ -33,6 +33,16 @@ In orthodox finance, these functions are one-way: reality dictates price. In a r
 
 In philosophy, this process is known as *hyperstition*—an idea that makes itself real simply by being circulated and capitalized. To the dogmatic fundamentalist who views the world as a static split between an objective company and a passive stock price, this looks like black magic.
 
+### The Folksy High Priest vs. The Honest Sorcerer
+
+To understand the isolation of the reflexive framework, one only needs to examine why traditional finance worships Warren Buffett while largely ignoring—or villainizing—George Soros.
+
+Buffett is the ultimate high priest of the fundamentalist liturgy. He provides institutional finance and retail investors with moral comfort: *work hard, audit the 10-K, buy good companies at fair prices, and the weighing machine will reward your patience.* It is the Protestant work ethic disguised as capital allocation. What the congregation overlooks is the underlying mechanics: Berkshire Hathaway is not powered by folksy patience alone, but by a massive insurance float providing decades of negative-cost leverage, paired with predatory liquidity extraction during crises and structural moats anchored in state-regulated utilities and rail. Buffett sanctified the myth of intrinsic value, ensuring a steady stream of sticky, passive capital to support the grand narrative.
+
+Soros, by contrast, is completely transparent about the nature of the game. In *The Alchemy of Finance*, he laid out the exact blueprints of reflexivity, cognitive fallibility, and market disequilibrium. Yet, because his framework strips away the comforting illusion of equilibrium and replaces it with epistemological uncertainty, mainstream finance rejects it as incomprehensible or dismisses him as a predatory speculator. 
+
+Buffett built a church where investors feel safe reciting accounting scripture. Soros laid out the machinery of the simulation in broad daylight, fully aware that most market participants would rather cling to the sermon than learn how to operate the gears.
+
 #### Wizards vs. Auditors
 
 Soros understood that market participants are inherently fallible and that prices are systematically biased. While 99.9% of market participants waste their careers attempting to forecast the business, the wizard trades the gap between perception and reality—riding the wave of cognitive contagion while it has liquidity, and stepping aside before the spell breaks.
