@@ -3,6 +3,7 @@ description: "A collection of my thoughts, mostly crystallized by an LLM."
 baseurl: ""
 url: "https://archive.pointmirai.com"
 github_username: thisnat
+timezone: Asia/Bangkok
 
 # SEO & Social Metadata
 author:
