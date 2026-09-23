@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Hunter of the Unknown"
+date:   2026-9-23
+---
+
+Modern thought frequently oscillates between two extremes: a technocratic triumphalism that seeks to optimize every corner of existence, and a weary postmodern skepticism that dismisses all structure as a social construct or a cage. Yet, carving a path entirely distinct from both is **neorationalism**—championed by contemporary philosophers like Reza Negarestani and Peter Wolfendale. Neorationalism does not view reason as a fragile human invention or a bureaucratic tool of oppression. Instead, it treats rationality as an autonomous, universal, and self-correcting engine that actively expands, rewrites its own rules, and consumes the unknown. 
+
+To understand how neorationalism confronts the limits of the world, one need only look at a strange, modern phenomenon: the Super Mario 64 speedrun anomaly. In 2013, a runner experienced a sudden, inexplicable upwarp that defied every known rule of the game's code. Years later, community analysts traced the miracle to its true source: a Single-Event Upset caused by a stray high-energy cosmic ray from outer space piercing the Nintendo 64 hardware and flipping a single bit in the RAM. 
+
+This is the **contemporary miracle**. A miracle is traditionally understood as a divine suspension of natural law. In a secular age, a contemporary miracle is an event that violently disrupts our understanding of the world, breaks the internal logic of a closed system, and exposes the radical porosity of our digital and conceptual fortresses. It is a moment where raw, chaotic exteriority shatters the illusion of absolute control.
+
+How does the neorationalist respond to such an event? A post-rationalist might look at the cosmic ray and declare that chaos always wins—that our digital logic is fragile and ultimately subordinate to a meaningless abyss. Neorationalism rejects this surrender entirely. Given Negarestani’s deep familiarity with continental philosophy and structuralist critiques, his brand of absolute rationalism bears a striking, uncanny parallel to **Gilles Deleuze and Félix Guattari’s concept of capitalism as an absolute deterritorializing machine**. 
+
+For Deleuze, capitalism is a relentless engine that melts all traditional codes, decodes barriers, and constantly expands its own limits by folding exteriority into interiority. Negarestani’s rationality operates with a similar, relentless structural ruthlessness. While a Deleuzian looks at this runaway, boundary-shattering expansion with anxiety, Negarestani embraces it as a Promethean triumph. For him, an anomaly or a cosmic glitch is not proof of the futility of reason; it is the ultimate diagnostic tool. Reason does not bow to mystical mystery. It absorbs external chaos as fuel, re-engineering its own architecture through formal structures and error correction.
+
+Through this lens, the boundaries of what we do not know are not permanent walls. Rationality functions as an absolute solvent, steadily translating exterior chaos into interior structure. Achieving this lucidity is like watching the source code run beneath a simulation while others remain caught in the narrative. The pursuit of rationality is not a sterile cage, but an open-ended game played against the infinite—a relentless hunt for the structural rules of the cosmos, carried out by minds capable of looking at the code, acknowledging its glitches, and daring to rewrite it.
