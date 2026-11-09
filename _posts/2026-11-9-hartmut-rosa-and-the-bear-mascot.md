@@ -48,11 +48,11 @@ Rosa locates the capacity for resonance primarily in the **ontological purity of
 
 This produces two distinct theoretical failures:
 
-#### The Confusion of Script with Mechanism
+#### The Mask and the Living Ritual
 
-Rosa treats the robotic cat and the mascot as structurally identical instances of manufactured unpredictability. This is a severe category error.
+Rosa’s dismissal of commercial performance conflates a scripted role with an unfeeling mechanism. 
 
-The robot cat is an algorithm simulating interiority from the inside out. The mascot, by contrast, is an ancient theatrical device: a mask (*persona*). Inside the foam is not an electric servo motor, but an anonymous, sweating human being stripped of their personal ego and operating through a mythic archetype.
+The mascot is an ancient theatrical device: a mask (*persona*). Inside the foam is an anonymous, sweating human being stripped of their personal ego and operating through a mythic archetype. 
 
 When the woman initiates contact, she does not seek an unscripted calculation. She participates in a **living ritual**. In ritual, certainty (*Verfügbarkeit*) does not suffocate the spark; it serves as the necessary liturgical scaffold for it. The fact that the mascot *must* wave back provides the safe clearing within which an unscripted human tenderness can pass between two strangers who would otherwise remain alienated commuters. The minimum-wage performer raises a padded paw, and in the micro-cadence of that movement—the subtle head tilt, the millisecond pause of acknowledgment—the human interiority behind the felt answers the human warmth in front of it. The commodity is hijacked from within.
 
@@ -62,7 +62,7 @@ By framing commercial environments as sites of mere "resonance simulation," Rosa
 
 This is a luxury of high-academic detachment. It assumes that human consciousness is passive clay, helplessly determined by the socioeconomic conditions of the room it stands in. But human receptivity is sovereign. Resonance is not an intrinsic property residing inside an object’s materials; it is an **event that occurs between two poles**. The woman in front of the mascot does not require an ontologically pristine canvas. Her capacity for wonder is robust enough to seize upon cheap plastic and synthetic fur, transmuting a promotional gimmick into an altar of genuine human communion.
 
-#### The Epistemological Break: The Quantum Superposition of the "Woman Mind"
+#### The Epistemological Break: The Quantum Superposition of the "Feminine Mind"
 
 The deeper reason Rosa misses this phenomenon lies in his model of the human mind. Rosa assumes an observer who processes reality through the classical law of the excluded middle: $A \lor \neg A$. The subject must either be critically aware of reality (knowing the mascot is a hollow suit) or under the sway of illusion (believing the mascot is a living, magical entity). Because Critical Theory prioritizes cognitive demystification, it assumes that any adult who appears moved by a mascot is either a regressed child or the dupe of a market spectacle.
 
