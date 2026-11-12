@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reflection on nvidia situlation"
+title:  "Reflection on Nvidia situlation"
 date:   2026-11-12
 ---
 
