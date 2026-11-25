@@ -18,23 +18,6 @@ The dangerous outsider derives power entirely from tension, solemnity, and apoca
 
 To break this spell, the sovereign must never deploy moral outrage or direct polemic. Outrage confirms that the state is terrified. Instead, deploy the two most lethal metaphysical solvents in existence: **ridicule** and **condescending pity**.
 
-```
-             [ HOSTILE MYTHIC EMERGENCE ]
-                          │
-          ┌───────────────┴───────────────┐
-          ▼                               ▼
-    THE SWORD OF RIDICULE           THE CLOAK OF PITY
-    (Rupturing Solemnity)       (Clinical Infantilization)
-          │                               │
-          ▼                               ▼
-   Drops status instantly;         Demotes prophet to patient;
-   makes mimicry embarrassing.     neutralizes fury into tragedy.
-          │                               │
-          └───────────────┬───────────────┘
-                          ▼
-            [ SPIRITUAL DEMAGNETIZATION ]
-```
-
 * **From Prophet to Patient:** Never accuse the outsider of heresy or sedition. Treat their fervor as an unfortunate neurosis, an overstimulated nervous system, or a tragic juvenile phase. Look down upon them not with anger, but with soft, patronizing sorrow: *"How tragic. The poor soul has unraveled. Bring him a warm meal and let him rest."*
 * **The Asymmetric Shrug:** Pity is non-reciprocal. An adversary can duel your hatred, but they cannot strike back against your condescension. Any display of righteous fury on their part merely serves as clinical proof of their instability.
 * **The Laugh that Dissolves:** A youth will gladly die to join an outlaw brotherhood of martyrs; they will never endure social humiliation to follow an embarrassing nuisance. Strip away the sublime, expose the domestic absurdity beneath their cosmic claims, and their army disperses before a single banner is raised.
