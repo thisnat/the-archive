@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Gilles Deleuze Reads Spinoza’s God
+title:  "How Gilles Deleuze Reads Spinoza’s God"
 date:   2026-11-25
 ---
 
